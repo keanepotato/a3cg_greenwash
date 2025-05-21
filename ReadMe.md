@@ -1,5 +1,4 @@
-# Towards Robust ESG Analysis Against Greenwashing Risks  
-**Aspect-Action Analysis with Cross-Category Generalization**
+# Towards Robust ESG Analysis Against Greenwashing Risks: Aspect-Action Analysis with Cross-Category Generalization
 
 📢 **Our paper has been accepted to ACL 2025 Main Conference!** 🎉
 
@@ -20,7 +19,7 @@ Coming soon — stay tuned!
 
 ## 🔖 Citation
 
-If you use this work, please cite us:
+If you use this work, please use the following citation:
 
 ```bibtex
 @article{ong2025greeenwash,
