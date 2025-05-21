@@ -23,7 +23,7 @@ Coming soon — stay tuned!
 If you use this work, please cite us:
 
 ```bibtex
-@article{ong2025a3cg_greeenwash,
+@article{ong2025greeenwash,
   title={Towards Robust ESG Analysis Against Greenwashing Risks: Aspect-Action Analysis with Cross-Category Generalization},
   author={Ong, Keane and Mao, Rui and Varshney, Deeksha and Cambria, Erik and Mengaldo, Gianmarco},
   journal={arXiv preprint arXiv:2502.15821},
