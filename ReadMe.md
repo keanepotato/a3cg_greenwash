@@ -7,7 +7,9 @@ This repository contains the dataset, code, and evaluation scripts for our ACL 2
 > **Towards Robust ESG Analysis Against Greenwashing Risks: Aspect-Action Analysis with Cross-Category Generalization**  
 > *Keane Ong, Rui Mao, Deeksha Varshney, Erik Cambria, Gianmarco Mengaldo*
 
-📄 **Paper**: [Read it on arXiv](https://arxiv.org/pdf/2502.15821)
+📄 **Paper**: [Read it on ACL Anthology](https://aclanthology.org/2025.acl-long.723/)
+📬 **Contact**: Please feel free to reach out if you have any questions or would like to connect:  
+[keane.ongweiyang@u.nus.edu](mailto:keane.ongweiyang@u.nus.edu) | [keaneong@mit.edu](mailto:keaneong@mit.edu)
 
 ---
 
@@ -43,7 +45,7 @@ The datasets used in this work are located in the `dataset` directory, which inc
 
 ## 🔖 Citation
 
-If you use this work, please use the following citation:
+If you find this work useful, please use the following citation:
 
 ```bibtex
 @article{ong2025greeenwash,
