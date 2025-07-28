@@ -33,7 +33,7 @@ The datasets used in this work are located in the `dataset` directory, which inc
   
   *(Replace `<x>` with 1, 2, or 3 for each fold)*
 
-  `statistics\` directory within each fold provides the details of the data within each fold and its corresponding partitions, including the aspect category count etc.
+  `statistics/` directory within each fold provides the details of the data within each fold and its corresponding partitions, including the aspect category count etc.
 
 ### 🧪 Experimental Protocol
 
@@ -41,6 +41,9 @@ The datasets used in this work are located in the `dataset` directory, which inc
 - We **evaluate** model performance on both `fold_<x>_seen_test.json` and `fold_<x>_unseen_test.json`.
 - The *seen* partitions include only aspect categories observed during training, while *unseen* test sets evaluate generalization to novel aspect categories.
 
+### 📊 Model Evaluation
+
+🚧 **Coming soon!** We're currently cleaning up our code base and will release model checkpoints and evaluation outputs shortly.
 
 ---
 
