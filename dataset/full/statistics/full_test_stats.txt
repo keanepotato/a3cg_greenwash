@@ -1,0 +1,77 @@
+Number of Sentences:
+399
+
+Aspect Category Counts:
+outreach: 71
+management: 63
+business compliance: 31
+workplace: 81
+worker & consumer safety compliance: 71
+resource optimisation: 69
+ecological conservation: 28
+data and cybersecurity protection: 20
+waste management: 66
+emissions control: 50
+no aspect category: 130
+
+Aspect Category Percentages:
+outreach: 10.44%
+management: 9.26%
+business compliance: 4.56%
+workplace: 11.91%
+worker & consumer safety compliance: 10.44%
+resource optimisation: 10.15%
+ecological conservation: 4.12%
+data and cybersecurity protection: 2.94%
+waste management: 9.71%
+emissions control: 7.35%
+no aspect category: 19.12%
+
+Action Counts:
+implemented: 311
+planning: 75
+indeterminate: 164
+no action: 130
+
+Action Counts per Aspect Category:
+outreach:
+implemented: 46
+indeterminate: 14
+planning: 11
+management:
+implemented: 40
+indeterminate: 25
+business compliance:
+implemented: 25
+planning: 1
+indeterminate: 7
+workplace:
+planning: 13
+implemented: 54
+indeterminate: 14
+worker & consumer safety compliance:
+implemented: 43
+planning: 13
+indeterminate: 15
+resource optimisation:
+implemented: 39
+indeterminate: 24
+planning: 8
+ecological conservation:
+implemented: 11
+indeterminate: 10
+planning: 7
+data and cybersecurity protection:
+implemented: 10
+planning: 8
+indeterminate: 2
+waste management:
+indeterminate: 32
+implemented: 33
+planning: 3
+emissions control:
+planning: 11
+implemented: 13
+indeterminate: 26
+no aspect category:
+no action: 130

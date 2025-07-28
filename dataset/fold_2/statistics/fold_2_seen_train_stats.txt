@@ -1,0 +1,54 @@
+Number of Sentences:
+850
+
+Aspect Category Counts:
+emissions control: 175
+resource optimisation: 199
+outreach: 201
+management: 154
+business compliance: 79
+waste management: 187
+no aspect category: 297
+
+Aspect Category Percentages:
+emissions control: 13.54%
+resource optimisation: 15.40%
+outreach: 15.56%
+management: 11.92%
+business compliance: 6.11%
+waste management: 14.47%
+no aspect category: 22.99%
+
+Action Counts:
+planning: 156
+indeterminate: 364
+implemented: 471
+no action: 297
+
+Action Counts per Aspect Category:
+emissions control:
+planning: 38
+implemented: 46
+indeterminate: 94
+resource optimisation:
+planning: 41
+indeterminate: 81
+implemented: 87
+outreach:
+indeterminate: 52
+implemented: 113
+planning: 35
+management:
+implemented: 89
+indeterminate: 53
+planning: 13
+business compliance:
+implemented: 50
+indeterminate: 13
+planning: 17
+waste management:
+implemented: 94
+indeterminate: 88
+planning: 15
+no aspect category:
+no action: 297

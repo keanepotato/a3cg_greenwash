@@ -1,0 +1,36 @@
+Number of Sentences:
+270
+
+Aspect Category Counts:
+outreach: 127
+management: 101
+business compliance: 67
+no aspect category: 94
+
+Aspect Category Percentages:
+outreach: 32.65%
+management: 25.96%
+business compliance: 17.22%
+no aspect category: 24.16%
+
+Action Counts:
+planning: 38
+indeterminate: 84
+implemented: 170
+no action: 94
+
+Action Counts per Aspect Category:
+outreach:
+planning: 26
+indeterminate: 29
+implemented: 72
+management:
+indeterminate: 46
+implemented: 51
+planning: 5
+business compliance:
+implemented: 51
+planning: 7
+indeterminate: 11
+no aspect category:
+no action: 94

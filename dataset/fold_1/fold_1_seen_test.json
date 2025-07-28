@@ -1,0 +1,4483 @@
+[
+    {
+        "text": "With the adoption of customised tableau dashboards, the team is now able to identify and monitor emerging topics of concern in real-time, and share insights with the relevant business units to enhance customer experience and develop new products and services.",
+        "sentence_id": 43,
+        "aspect_categories": {
+            "outreach": [
+                "customer experience"
+            ]
+        },
+        "aspects": {
+            "customer experience": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Safeguarding our stakeholders' data is of paramount importance to our Group and we are committed to maintain utmost privacy and security of their personal data.",
+        "sentence_id": 2081,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "stakeholders' data",
+                "utmost privacy",
+                "security",
+                "personal data"
+            ]
+        },
+        "aspects": {
+            "stakeholders' data": [ 
+                "planning"
+            ],
+            "utmost privacy": [
+                "planning"
+            ],
+            "security": [
+                "planning"
+            ],
+            "personal data": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "All Raffles Health Insurance staff complete an e-learning programme from an accredited Institute of Banking and Finance training provider.",
+        "sentence_id": 583,
+        "aspect_categories": {
+            "workplace": [
+                "e-learning programme",
+                "training provider",
+                "staff"
+            ]
+        },
+        "aspects": {
+            "e-learning programme": [
+                "implemented"
+            ],
+            "training provider": [
+                "implemented"
+            ],
+            "staff": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Our Group have adopted a framework of corporate governance policies and practices in line with the principles and provisions set out in the Code of Corporate Governance 2018.",
+        "sentence_id": 376,
+        "aspect_categories": {
+            "management": [
+                "corporate governance policies and practices",
+                "code of corporate governance"
+            ]
+        },
+        "aspects": {
+            "corporate governance policies and practices": [
+                "implemented"
+            ],
+            "code of corporate governance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Protective equipment is also provided to employees in specialist and technical positions, and this equipment is checked on a regular basis to ensure that they are in optimal working conditions.",
+        "sentence_id": 1881,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "optimal working conditions",
+                "protective equipment"
+            ],
+            "workplace": [
+                "employees"
+            ]
+        },
+        "aspects": {
+            "optimal working conditions": [
+                "implemented"
+            ],
+            "protective equipment": [
+                "implemented"
+            ],
+            "employees": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The Manager also provides health benefits to its employees and employees are encouraged to share health concerns and suggestions with the C-Suite.",
+        "sentence_id": 316,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "health benefits"
+            ],
+            "workplace": [
+                "employees",
+                "employees"
+            ]
+        },
+        "aspects": {
+            "health benefits": [
+                "implemented"
+            ],
+            "employees": [
+                "implemented",
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We strive to bring out the best performance of each ambassador and increase job satisfaction through a meritocratic reward system based on the achievement of delivery KPIs.",
+        "sentence_id": 351,
+        "aspect_categories": {
+            "workplace": [
+                "job satisfaction",
+                "meritocratic reward system"
+            ]
+        },
+        "aspects": {
+            "job satisfaction": [
+                "planning"
+            ],
+            "meritocratic reward system": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "We have a HSE Committee to oversee the promotion of safety culture and practices in the workplace.",
+        "sentence_id": 861,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safety culture and practices"
+            ]
+        },
+        "aspects": {
+            "safety culture and practices": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "This is to ensure the freshness and quality of the food we serve, so as to safeguard the food safety for our customers and hotel guests.",
+        "sentence_id": 1772,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "food safety"
+            ],
+            "outreach": [
+                "customers"
+            ]
+        },
+        "aspects": {
+            "food safety": [
+                "implemented"
+            ],
+            "customers": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "As digital banking will significantly change the conduct of banking and finance and to continuously improve our customer experience, we allocated more resources to our digital platforms to simplify and enhance the banking experience while instilling trust.",
+        "sentence_id": 754,
+        "aspect_categories": {
+            "outreach": [
+                "customer experience"
+            ]
+        },
+        "aspects": {
+            "customer experience": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We also seek to create long-term economic and social benefits for our communities, including workforce and supplier development.",
+        "sentence_id": 407,
+        "aspect_categories": {
+            "outreach": [
+                "communities",
+                "workforce and supplier development"
+            ]
+        },
+        "aspects": {
+            "communities": [
+                "planning"
+            ],
+            "workforce and supplier development": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "By adopting responsible business practices, we grow our business in a sustainable manner.",
+        "sentence_id": 899,
+        "aspect_categories": {
+            "management": [
+                "responsible business practices"
+            ]
+        },
+        "aspects": {
+            "responsible business practices": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Our Board concurs with the  management on the  material Environmental, Social and Governance (ESG)  factors identified by them and their monitoring  process .",
+        "sentence_id": 1007,
+        "aspect_categories": {
+            "management": [
+                "board",
+                "management"
+            ]
+        },
+        "aspects": {
+            "board": [
+                "indeterminate"
+            ],
+            "management": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Policies in place to uphold good corporate governance.",
+        "sentence_id": 418,
+        "aspect_categories": {
+            "management": [
+                "good corporate governance"
+            ]
+        },
+        "aspects": {
+            "good corporate governance": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Three independent directors serve as the chairman or a member of the four functional committees under the board of directors.",
+        "sentence_id": 408,
+        "aspect_categories": {
+            "management": [
+                "independent directors",
+                "board of directors"
+            ]
+        },
+        "aspects": {
+            "independent directors": [
+                "indeterminate"
+            ],
+            "board of directors": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We deeply regret that in 2021 there were two fatalities in Indonesia arising from motorvehicle accidents.",
+        "sentence_id": 609,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "motorvehicle accidents"
+            ],
+            "management": [
+                "fatalities"
+            ]
+        },
+        "aspects": {
+            "motorvehicle accidents": [
+                "indeterminate"
+            ],
+            "fatalities": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "In response to an amendment of the Personal Data Protection Act (PDPA), we reviewed and updated our Group PDPA Compliance Policy to better protect customer privacy.",
+        "sentence_id": 2069,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "customer privacy"
+            ],
+            "business compliance": [
+                "compliance policy"
+            ]
+        },
+        "aspects": {
+            "customer privacy": [
+                "implemented"
+            ],
+            "compliance policy": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We also encourage employees to report compliance concerns through internal channels (e.g., direct line managers, Human Resources, the Legal department).",
+        "sentence_id": 109,
+        "aspect_categories": {
+            "business compliance": [
+                "compliance concerns"
+            ],
+            "workplace": [
+                "employees"
+            ],
+            "management": [
+                "direct line managers"
+            ]
+        },
+        "aspects": {
+            "compliance concerns": [
+                "implemented"
+            ],
+            "employees": [
+                "indeterminate"
+            ],
+            "direct line managers": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "The shareholders of the Company can provide their opinions, suggestions for improvements of grievance mechanism and other matters during the AGMs/EGMs which are conducted by the company at least once a year.",
+        "sentence_id": 300,
+        "aspect_categories": {
+            "workplace": [
+                "grievance mechanism"
+            ]
+        },
+        "aspects": {
+            "grievance mechanism": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Guidelines and legal requirements of these policies have been extended to our internal Workplace, Safety, Health and Security Policy, signalling F&N's commitment to creating a safety culture for all.",
+        "sentence_id": 854,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safety culture",
+                "internal workplace, safety, health and security policy"
+            ]
+        },
+        "aspects": {
+            "safety culture": [
+                "planning"
+            ],
+            "internal workplace, safety, health and security policy": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "To better understand CDL's business risks from our supply chain, we commenced a Supply Chain Segmentation Study on our top 100 suppliers last year.",
+        "sentence_id": 1972,
+        "aspect_categories": {
+            "management": [
+                "business risks"
+            ]
+        },
+        "aspects": {
+            "business risks": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "As a responsible employer, it is our priority to provide a conducive and safe environment where our people can achieve their full potential.",
+        "sentence_id": 686,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "conducive and safe environment",
+                "responsible employer"
+            ]
+        },
+        "aspects": {
+            "conducive and safe environment": [
+                "planning"
+            ],
+            "responsible employer": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "We assess the needs and expectations of our key stakeholder groups that are important to our Group's value development strategy and we will continue to work hard to develop mutually beneficial relationships.",
+        "sentence_id": 398,
+        "aspect_categories": {
+            "outreach": [
+                "mutually beneficial relationships"
+            ]
+        },
+        "aspects": {
+            "mutually beneficial relationships": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "We perform enterprise risk assessment annually and update our risk register on a timely basis to reflect emerging risks.",
+        "sentence_id": 1944,
+        "aspect_categories": {
+            "management": [
+                "enterprise risk assessment"
+            ]
+        },
+        "aspects": {
+            "enterprise risk assessment": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We require our employees to use suitable personal protective equipment ( \"PPE\") to ensure their own safety as well as of their colleagues.",
+        "sentence_id": 656,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "personal protective equipment",
+                "safety"
+            ],
+            "workplace": [
+                "employees"
+            ]
+        },
+        "aspects": {
+            "personal protective equipment": [
+                "implemented"
+            ],
+            "safety": [
+                "implemented"
+            ],
+            "employees": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Our Group has put in place various policies and practices, some of which are highlighted on the next page, that will safeguard the interests of stakeholders and enhance stakeholders ‚Äô value as part of our effort to maintain high standards of corporate governance.",
+        "sentence_id": 26,
+        "aspect_categories": {
+            "management": [
+                "corporate governance"
+            ]
+        },
+        "aspects": {
+            "corporate governance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "There are incentive schemes in place to further motivate and reward good performance.",
+        "sentence_id": 301,
+        "aspect_categories": {
+            "workplace": [
+                "good performance",
+                "incentive schemes"
+            ]
+        },
+        "aspects": {
+            "good performance": [
+                "indeterminate"
+            ],
+            "incentive schemes": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "We believe in providing opportunities to access education and building a pipeline of young talent would contribute to socio-economic development and the success of our business.",
+        "sentence_id": 1799,
+        "aspect_categories": {
+            "outreach": [
+                "education"
+            ]
+        },
+        "aspects": {
+            "education": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "During FY2022, we shared a total of S$129,000 in direct economic value towards community investments, with the decrease in activities related to the pandemic, which restricted face-to-face community interaction.",
+        "sentence_id": 723,
+        "aspect_categories": {
+            "outreach": [
+                "community investments",
+                "face-to-face community interaction"
+            ]
+        },
+        "aspects": {
+            "community investments": [
+                "indeterminate"
+            ],
+            "face-to-face community interaction": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "We have adopted a zero-tolerance stance to regulatory breaches and will practice good corporate governance throughout our business in accordance with the prevailing statutory principles and guidelines.",
+        "sentence_id": 1804,
+        "aspect_categories": {
+            "business compliance": [
+                "zero-tolerance stance",
+                "regulatory breaches"
+            ],
+            "management": [
+                "good corporate governance"
+            ]
+        },
+        "aspects": {
+            "zero-tolerance stance": [
+                "implemented"
+            ],
+            "regulatory breaches": [
+                "implemented"
+            ],
+            "good corporate governance": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "During the Reporting Period, there was no case of non-compliance related to occupational health and safety that would have a significant impact on the Company .",
+        "sentence_id": 1831,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "occupational health and safety"
+            ],
+            "business compliance": [
+                "non-compliance"
+            ]
+        },
+        "aspects": {
+            "occupational health and safety": [
+                "implemented"
+            ],
+            "non-compliance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "It leverages iterative machine learning to provide timely actionable insights to improve the SIA customer experience.",
+        "sentence_id": 698,
+        "aspect_categories": {
+            "outreach": [
+                "customer experience"
+            ]
+        },
+        "aspects": {
+            "customer experience": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We safeguard customer information with stringent internal policies and do not divulge any such personal information to third parties for marketing or promotional purposes.",
+        "sentence_id": 2050,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "personal information",
+                "customer information"
+            ]
+        },
+        "aspects": {
+            "personal information": [
+                "implemented"
+            ],
+            "customer information": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Business collaboration with reputable partners or vendors which requires data exchange through a shared network and interfacing system.",
+        "sentence_id": 146,
+        "aspect_categories": {
+            "outreach": [
+                "business collaboration",
+                "reputable partners"
+            ]
+        },
+        "aspects": {
+            "business collaboration": [
+                "indeterminate"
+            ],
+            "reputable partners": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Over the years, our green building efforts have translated to tangible benefits for not only CDL, but also our homebuyers and tenants.",
+        "sentence_id": 991,
+        "aspect_categories": {
+            "ecological conservation": [
+                "green building efforts"
+            ]
+        },
+        "aspects": {
+            "green building efforts": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "To reflect this commitment, the Company has developed a Prevention of Money Laundering and Terrorist Financing (PMLTF) Framework and the related procedures and controls by drawing on practices from other related industries with significant PMLTF compliance activities.",
+        "sentence_id": 2055,
+        "aspect_categories": {
+            "business compliance": [
+                "compliance activities"
+            ]
+        },
+        "aspects": {
+            "compliance activities": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Regular meetings with factory staff to discuss labour issues.",
+        "sentence_id": 1813,
+        "aspect_categories": {
+            "workplace": [
+                "labour issues",
+                "factory staff"
+            ]
+        },
+        "aspects": {
+            "labour issues": [
+                "indeterminate"
+            ],
+            "factory staff": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "In FY2022, we aim to continue to provide fair and competitive remuneration based on merit.",
+        "sentence_id": 601,
+        "aspect_categories": {
+            "workplace": [
+                "fair and competitive remuneration"
+            ]
+        },
+        "aspects": {
+            "fair and competitive remuneration": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "(6) Organise labour health inspections and implement health management.",
+        "sentence_id": 571,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "labour health inspections ",
+                "health management"
+            ]
+        },
+        "aspects": {
+            "labour health inspections ": [
+                "indeterminate"
+            ],
+            "health management": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "We have also embarked on conservation efforts outside of our oil palm plantations.",
+        "sentence_id": 989,
+        "aspect_categories": {
+            "ecological conservation": [
+                "conservation efforts"
+            ]
+        },
+        "aspects": {
+            "conservation efforts": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "As a testament to our planning, we have further obtained ISO14001:2015 certification over the environmental management system at our Indonesia facility to ensure proper governance of environmental matters.",
+        "sentence_id": 132,
+        "aspect_categories": {
+            "management": [
+                "proper governance",
+                "environmental management system"
+            ]
+        },
+        "aspects": {
+            "proper governance": [
+                "implemented"
+            ],
+            "environmental management system": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "GPG is committed to operating in a safe and responsible manner to prevent occupational injury and illness.",
+        "sentence_id": 93,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "occupational injury and illness",
+                "safe and responsible manner"
+            ]
+        },
+        "aspects": {
+            "occupational injury and illness": [
+                "planning"
+            ],
+            "safe and responsible manner": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "We foresee that with the support of local government and growing focus on environmental protection efforts, we will be able to assist many local businesses in their compliance with environmental regulatory requirements and promoting economic growth in the region.",
+        "sentence_id": 1982,
+        "aspect_categories": {
+            "outreach": [
+                "local businesses"
+            ],
+            "business compliance": [
+                "compliance"
+            ]
+        },
+        "aspects": {
+            "local businesses": [
+                "planning"
+            ],
+            "compliance": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "Going forward, we hope to implement a more structured training and development programme for the different functional roles of our employees.",
+        "sentence_id": 565,
+        "aspect_categories": {
+            "workplace": [
+                "training and development programme",
+                "employees"
+            ]
+        },
+        "aspects": {
+            "training and development programme": [
+                "indeterminate"
+            ],
+            "employees": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "The risk management framework applied determines the nature and extent of the key risks, including risks related to corruption for its operations, which the Group faces in achieving its strategic goals.",
+        "sentence_id": 529,
+        "aspect_categories": {
+            "business compliance": [
+                "corruption"
+            ],
+            "management": [
+                "risk management framework"
+            ]
+        },
+        "aspects": {
+            "corruption": [
+                "implemented"
+            ],
+            "risk management framework": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We encourage open communication and compliance  with the Group's policies and procedures.",
+        "sentence_id": 1850,
+        "aspect_categories": {
+            "workplace": [
+                "open communication"
+            ],
+            "business compliance": [
+                "compliance"
+            ]
+        },
+        "aspects": {
+            "open communication": [
+                "implemented"
+            ],
+            "compliance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We also have clear and fair grievance procedures.",
+        "sentence_id": 266,
+        "aspect_categories": {
+            "workplace": [
+                "clear and fair grievance procedures"
+            ]
+        },
+        "aspects": {
+            "clear and fair grievance procedures": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "In addition to using e-assessment to validate colleagues' learning experiences, we collect data from participants for course evaluation.",
+        "sentence_id": 1072,
+        "aspect_categories": {
+            "workplace": [
+                "colleagues' learning experiences"
+            ]
+        },
+        "aspects": {
+            "colleagues' learning experiences": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "In 2019 we launched several projects to enhance our approach to information security assurance using automation and analytics.",
+        "sentence_id": 2098,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "information security assurance"
+            ]
+        },
+        "aspects": {
+            "information security assurance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The Quality Committee, who has overall oversight of these committees, reviews and evaluates their activities and programmes with collective decision that benefits the organisation to promote patient safety.",
+        "sentence_id": 175,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "patient safety"
+            ],
+            "management": [
+                "overall oversight"
+            ]
+        },
+        "aspects": {
+            "patient safety": [
+                "implemented"
+            ],
+            "overall oversight": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "With the eco-sustainability practices of clients coming under increased scrutiny from their own key stakeholders, we have been delivering eco-sustainable solutions that help them to match their global growth strategies with better management of their ecological footprints and compliance with environmental regulations.",
+        "sentence_id": 1897,
+        "aspect_categories": {
+            "ecological conservation": [
+                "ecological footprints"
+            ],
+            "business compliance": [
+                "compliance"
+            ]
+        },
+        "aspects": {
+            "ecological footprints": [
+                "implemented"
+            ],
+            "compliance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Our aim is to provide a conducive environment for our employees to enjoy their human rights.",
+        "sentence_id": 521,
+        "aspect_categories": {
+            "workplace": [
+                "employees"
+            ],
+            "worker & consumer safety compliance": [
+                "human rights"
+            ]
+        },
+        "aspects": {
+            "employees": [
+                "planning"
+            ],
+            "human rights": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "Established IT controls and processes are in place to safeguard the confidential information of stakeholders in accordance with the Personal Data Protection Act in Singapore.",
+        "sentence_id": 430,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "confidential information",
+                "established it controls and processes"
+            ]
+        },
+        "aspects": {
+            "confidential information": [
+                "implemented"
+            ],
+            "established it controls and processes": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Our WSHMS set out WSH management system enablers, commitments, targets and responsibilities for our team, with overriding responsibility belonging to our major subsidiaries' EHS Teams.",
+        "sentence_id": 455,
+        "aspect_categories": {
+            "management": [
+                "WSH management system enablers"
+            ]
+        },
+        "aspects": {
+            "WSH management system enablers": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Stakeholders feedback and suggestions are invaluable in helping Nam Cheong fine-tune our business strategy and ensure we operate in a transparent and accountable manner.",
+        "sentence_id": 1757,
+        "aspect_categories": {
+            "business compliance": [
+                "transparent and accountable manner"
+            ]
+        },
+        "aspects": {}
+    },
+    {
+        "text": "The Group's efforts in upholding the highest standards of corporate governance have been acknowledged by the Singapore Exchange Regulation Pte.",
+        "sentence_id": 891,
+        "aspect_categories": {
+            "management": [
+                "corporate governance"
+            ]
+        },
+        "aspects": {
+            "corporate governance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "During FY2022, we had no substantiated complaints on breaches of client privacy, which was the same from FY2018 to FY2021, as shown on this page.",
+        "sentence_id": 208,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "client privacy"
+            ]
+        },
+        "aspects": {
+            "client privacy": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "With the use of technology, the simulator serves as an important tool for staff to hone their skills and sharpen their responses to any possible safety hazards.",
+        "sentence_id": 311,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safety hazards"
+            ],
+            "workplace": [
+                "staff"
+            ]
+        },
+        "aspects": {
+            "safety hazards": [
+                "implemented"
+            ],
+            "staff": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The key material environmental, social and governance factors for Brook Crompton have been identified and reviewed by the Chairman and the CEO.",
+        "sentence_id": 925,
+        "aspect_categories": {
+            "management": [
+                "governance factors"
+            ]
+        },
+        "aspects": {
+            "governance factors": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We strive to take all possible safety measures to alleviate the risks associated with COVID -19.",
+        "sentence_id": 1815,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safety measures"
+            ]
+        },
+        "aspects": {
+            "safety measures": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "Furthermore, we are committed to economic and social development by hiring from the local community to improve social conditions and community development.",
+        "sentence_id": 292,
+        "aspect_categories": {
+            "outreach": [
+                "community development",
+                "social conditions",
+                "local community"
+            ]
+        },
+        "aspects": {
+            "community development": [
+                "planning"
+            ],
+            "social conditions": [
+                "planning"
+            ],
+            "local community": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "Since 2012, SIA has been supporting The Smith Family, a national independent charity helping disadvantaged children in Australia, with the tools and financial support to help them thrive at school and break the cycle of poverty.",
+        "sentence_id": 719,
+        "aspect_categories": {
+            "outreach": [
+                "national independent charity",
+                "disadvantaged children",
+                "financial support"
+            ]
+        },
+        "aspects": {
+            "national independent charity": [
+                "implemented"
+            ],
+            "disadvantaged children": [
+                "implemented"
+            ],
+            "financial support": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The International Convention for the Control and Management of Ships' Ballast Water and Sediments (BWM Convention), which took effect in September 2017, requires all ships to implement a ballast water management plan (BWMP).",
+        "sentence_id": 732,
+        "aspect_categories": {
+            "management": [
+                "ballast water management plan"
+            ]
+        },
+        "aspects": {
+            "ballast water management plan": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "We have zero tolerance to bribery and corruption, and we are committed to conduct our business in an ethical manner.",
+        "sentence_id": 881,
+        "aspect_categories": {
+            "business compliance": [
+                "ethical manner",
+                "bribery",
+                "corruption"
+            ]
+        },
+        "aspects": {
+            "ethical manner": [
+                "planning"
+            ],
+            "bribery": [
+                "planning"
+            ],
+            "corruption": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "The award is jointly organised by Institute of Singapore Chartered Accountants, Singapore Institute of Directors and The Business Times in recognition for exemplary companies that have upheld best practices in corporate governance and shown leadership, innovation and resilience during the pandemic.",
+        "sentence_id": 681,
+        "aspect_categories": {
+            "management": [
+                "corporate governance"
+            ]
+        },
+        "aspects": {
+            "corporate governance": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "The SUTD Bursary Award is established to provide financial assistance to deserving full-time undergraduate students that demonstrated financial need.",
+        "sentence_id": 33,
+        "aspect_categories": {
+            "outreach": [
+                "financial assistance"
+            ]
+        },
+        "aspects": {
+            "financial assistance": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Suppliers are also expected to respect and uphold fundamental human rights in their operations, taking into account the International Labour Organisation's Declaration on Fundamental Principles and Rights at Work.",
+        "sentence_id": 620,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "fundamental human rights"
+            ]
+        },
+        "aspects": {
+            "fundamental human rights": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "This exercise is based on CLI's annual group-wide RCSA exercise, review of the Risk Appetite Statement and Key Risk Indicator on Climate Change and Environmental Risk.",
+        "sentence_id": 1344,
+        "aspect_categories": {
+            "management": [
+                "climate change and environmental risk"
+            ]
+        },
+        "aspects": {
+            "climate change and environmental risk": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "The Manager is committed to supporting community development in meaningful ways and in areas where it is best able to contribute expertise and skill set, consistent with its core business.",
+        "sentence_id": 769,
+        "aspect_categories": {
+            "outreach": [
+                "community development"
+            ]
+        },
+        "aspects": {
+            "community development": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "Our commitment to attract, retain and motivate top talent is essential to SIAEC's success as a leading MRO service provider.",
+        "sentence_id": 535,
+        "aspect_categories": {
+            "workplace": [
+                "top talent"
+            ]
+        },
+        "aspects": {
+            "top talent": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "This certification recognises our continuous efforts to embed a positive health and safety culture in our operations.",
+        "sentence_id": 1868,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "positive health and safety culture"
+            ]
+        },
+        "aspects": {
+            "positive health and safety culture": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "These measures are not new to Keppel as our various sites have been holding pandemic preparedness exercises over the years as part of business continuity plans to minimise disruptions.",
+        "sentence_id": 397,
+        "aspect_categories": {
+            "management": [
+                "business continuity plans"
+            ],
+            "worker & consumer safety compliance": [
+                "pandemic preparedness exercises"
+            ]
+        },
+        "aspects": {
+            "business continuity plans": [
+                "implemented"
+            ],
+            "pandemic preparedness exercises": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "This allows CapitaLand to benchmark and respond by making the necessary operational and service improvements to create a better customer experience for its guests.",
+        "sentence_id": 840,
+        "aspect_categories": {
+            "outreach": [
+                "customer experience"
+            ]
+        },
+        "aspects": {
+            "customer experience": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Due to the pandemic lockdown and the subsequent disposal of discontinued operations, the Group is not able to organise engagement activities with the local community during the reporting year.",
+        "sentence_id": 660,
+        "aspect_categories": {
+            "outreach": [
+                "local community"
+            ]
+        },
+        "aspects": {
+            "local community": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Our  Board is committed to this and strives to maintain high standards of corporate governance for greater transparency .",
+        "sentence_id": 12,
+        "aspect_categories": {
+            "management": [
+                "corporate governance",
+                "board"
+            ]
+        },
+        "aspects": {
+            "corporate governance": [
+                "planning"
+            ],
+            "board": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Regular fire drills and evacuation exercises are conducted to improve employee awareness and preparedness.",
+        "sentence_id": 222,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "employee awareness and preparedness"
+            ]
+        },
+        "aspects": {
+            "employee awareness and preparedness": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "It gives the EPA more powers and tools to prevent environmental and human health risks.",
+        "sentence_id": 558,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "human health risks"
+            ]
+        },
+        "aspects": {
+            "human health risks": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Keppel also donated VND7.4 billion to support COVID-19 relief efforts in Vietnam.",
+        "sentence_id": 389,
+        "aspect_categories": {
+            "outreach": [
+                "relief efforts"
+            ]
+        },
+        "aspects": {
+            "relief efforts": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Marco Polo believes that with its performance appraisal exercise, we will be able to uphold the morale of our employees and provide the best for them to reach their full professional potential.",
+        "sentence_id": 298,
+        "aspect_categories": {
+            "workplace": [
+                "full professional potential",
+                "performance appraisal exercise",
+                "employees"
+            ]
+        },
+        "aspects": {
+            "full professional potential": [
+                "planning"
+            ],
+            "performance appraisal exercise": [
+                "planning"
+            ],
+            "employees": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "Our suite of innovative tech tools drive engagement, increase customer satisfaction and promote loyalty by enhancing the shopping experience.",
+        "sentence_id": 1904,
+        "aspect_categories": {
+            "outreach": [
+                "customer satisfaction"
+            ]
+        },
+        "aspects": {
+            "customer satisfaction": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We also conduct safety checks regularly.",
+        "sentence_id": 842,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safety checks"
+            ]
+        },
+        "aspects": {
+            "safety checks": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "This helps us in developing strong partnerships and thus build success together.",
+        "sentence_id": 1785,
+        "aspect_categories": {
+            "outreach": [
+                "strong partnerships"
+            ]
+        },
+        "aspects": {
+            "strong partnerships": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We adhere to the principles and guidelines of the Code of Corporate Governance 2018 (the Code), issued by the Monetary Authority of Singapore (the MAS), and will continue to improve our practices and operating frameworks by updating ourselves on developments in corporate governance.",
+        "sentence_id": 27,
+        "aspect_categories": {
+            "management": [
+                "code of corporate governance",
+                "corporate governance"
+            ]
+        },
+        "aspects": {
+            "code of corporate governance": [
+                "implemented"
+            ],
+            "corporate governance": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "This refers to the lowest legal minimum wage listed amongst the provinces in Indonesia.",
+        "sentence_id": 1433,
+        "aspect_categories": {
+            "workplace": [
+                "legal minimum wage"
+            ]
+        },
+        "aspects": {
+            "legal minimum wage": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "The Group endeavours to protect all sensitive information pertaining to its customers and to take reasonable measures to preserve the integrity of customers' data and  prevent any loss  of customers' data.",
+        "sentence_id": 803,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "customers' data",
+                "sensitive information",
+                "customers' data"
+            ]
+        },
+        "aspects": {
+            "customers' data": [
+                "planning",
+                "planning"
+            ],
+            "sensitive information": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "For the financial year under review, we have not received any report of any corruption (FY2021: Nil), as targeted in the previous sustainability report.",
+        "sentence_id": 2001,
+        "aspect_categories": {
+            "business compliance": [
+                "corruption"
+            ]
+        },
+        "aspects": {
+            "corruption": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "To ensure data protection in an unsecured environment, more features have been added to our endpoint protection, such as the Endpoint Detection and Response.",
+        "sentence_id": 961,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "endpoint protection",
+                "unsecured environment",
+                "data protection"
+            ]
+        },
+        "aspects": {
+            "endpoint protection": [
+                "implemented"
+            ],
+            "unsecured environment": [
+                "implemented"
+            ],
+            "data protection": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The Company strictly abides by the Charity Law of the PRC  and follows the principles of legality, voluntariness, and honesty to fulfil our corporate social responsibility.",
+        "sentence_id": 1832,
+        "aspect_categories": {
+            "outreach": [
+                "corporate social responsibility",
+                "charity"
+            ]
+        },
+        "aspects": {
+            "corporate social responsibility": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The mooncakes distributed for this event were made by beneficiaries of ASPN, a social service agency that provides special education, vocational training and employment support services for individuals with mild intellectual disability.",
+        "sentence_id": 720,
+        "aspect_categories": {
+            "outreach": [
+                "special education",
+                "vocational training",
+                "employment support services"
+            ]
+        },
+        "aspects": {
+            "special education": [
+                "indeterminate"
+            ],
+            "vocational training": [
+                "indeterminate"
+            ],
+            "employment support services": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "To strengthen Kencana's sustainability governance, the Board appointed Vice Chairman to lead the implementation of the sustainability initiatives and activities.",
+        "sentence_id": 1766,
+        "aspect_categories": {
+            "management": [
+                "vice chairman",
+                "sustainability governance",
+                "board"
+            ]
+        },
+        "aspects": {
+            "vice chairman": [
+                "implemented"
+            ],
+            "sustainability governance": [
+                "implemented"
+            ],
+            "board": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Boom sprayer workers are also required to have appropriate personal protective equipment (PPE) and undergo regular and frequent medical evaluations to ensure chemical exposure is avoided or minimised.",
+        "sentence_id": 1876,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "appropriate personal protective equipment",
+                "medical evaluations",
+                "chemical exposure"
+            ]
+        },
+        "aspects": {
+            "appropriate personal protective equipment": [
+                "implemented"
+            ],
+            "medical evaluations": [
+                "implemented"
+            ],
+            "chemical exposure": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We ensure legal compliance of environment related matters through relevant local laws from all local jurisdictions which we operate in.",
+        "sentence_id": 11,
+        "aspect_categories": {
+            "business compliance": [
+                "legal compliance"
+            ]
+        },
+        "aspects": {
+            "legal compliance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "As a result, the properties that we develop include accessibility features for people with disabilities, such as rams for going up and down stairs, toilets, and special parking space in the shopping centers that we manage.",
+        "sentence_id": 1297,
+        "aspect_categories": {
+            "outreach": [
+                "accessibility features"
+            ]
+        },
+        "aspects": {
+            "accessibility features": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "We support the Blue Tree initiative, with blue trees located at all Civmec sites, and in December 2021, we made a financial contribution to Uniting WA; a charity that supports people in the community experiencing complex challenges, such as mental health, family issues and homelessness.",
+        "sentence_id": 1764,
+        "aspect_categories": {
+            "outreach": [
+                "community",
+                "homelessness",
+                "charity",
+                "mental health"
+            ]
+        },
+        "aspects": {
+            "community": [
+                "implemented"
+            ],
+            "homelessness": [
+                "implemented"
+            ],
+            "charity": [
+                "implemented"
+            ],
+            "mental health": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "An internal fundraiser and a dollar-to-dollar matching by CDL raised more than $40,000, which was donated to the Singapore and Australian Red Cross to support disaster relief efforts.",
+        "sentence_id": 2076,
+        "aspect_categories": {
+            "outreach": [
+                "disaster relief efforts",
+                "internal fundraiser"
+            ]
+        },
+        "aspects": {
+            "disaster relief efforts": [
+                "implemented"
+            ],
+            "internal fundraiser": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "To supplement online training, the Institute partnered with Singapore Institute of Management and NTUC Learning Hub to offer a buffet of learning resources for employees.",
+        "sentence_id": 582,
+        "aspect_categories": {
+            "workplace": [
+                "online training",
+                "learning resources",
+                "employees"
+            ]
+        },
+        "aspects": {
+            "online training": [
+                "implemented"
+            ],
+            "learning resources": [
+                "implemented"
+            ],
+            "employees": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "With a PDPA officer appointed, we continue to maintain high standards in safekeeping of personal data of our patients.",
+        "sentence_id": 2017,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "personal data"
+            ]
+        },
+        "aspects": {
+            "personal data": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "In our call to advocate good governance within the Group, we have also formalised and established a Conflict of Interest Policy and a Whistleblowing Policy.",
+        "sentence_id": 1914,
+        "aspect_categories": {
+            "management": [
+                "good governance"
+            ],
+            "business compliance": [
+                "whistleblowing policy",
+                "conflict of interest policy"
+            ]
+        },
+        "aspects": {
+            "good governance": [
+                "implemented"
+            ],
+            "whistleblowing policy": [
+                "implemented"
+            ],
+            "conflict of interest policy": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "In FY2022 , our customer satisfaction index stands at 7.99 which is a 7.1% increase as compared to last year.",
+        "sentence_id": 1808,
+        "aspect_categories": {
+            "outreach": [
+                "customer satisfaction index"
+            ]
+        },
+        "aspects": {
+            "customer satisfaction index": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "SingPost has also carried out several WSH activities and campaigns over the last few years to raise occupational health and safety awareness across our operations.",
+        "sentence_id": 1814,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "occupational health and safety awareness",
+                "WSH activities and campaigns"
+            ]
+        },
+        "aspects": {
+            "occupational health and safety awareness": [
+                "implemented"
+            ],
+            "WSH activities and campaigns": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The Group continues to maintain a strong and healthy workforce, building a talent pool with deep knowledge of regional and global markets to support our growth and expansion, as well as prepare next generation of leaders as part of succession planning.",
+        "sentence_id": 664,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "healthy workforce"
+            ],
+            "management": [
+                "succession planning"
+            ]
+        },
+        "aspects": {
+            "healthy workforce": [
+                "implemented"
+            ],
+            "succession planning": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We seek to be an environmentally aware and socially responsible corporation through integration of eco-friendly practices in our corporate strategies and decisions to minimise our ecological footprint.",
+        "sentence_id": 2053,
+        "aspect_categories": {
+            "ecological conservation": [
+                "ecological footprint",
+                "eco-friendly practices"
+            ]
+        },
+        "aspects": {
+            "ecological footprint": [
+                "planning"
+            ],
+            "eco-friendly practices": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "SIA‚Äö√Ñ√¥s CEx department adopts the 3Ds (Discover, Design and Deliver) methodology to envision the end-to-end customer journey and develop strategies that enhance the Singapore Airlines customer experience.",
+        "sentence_id": 446,
+        "aspect_categories": {
+            "outreach": [
+                "customer experience",
+                "end-to-end customer journey"
+            ]
+        },
+        "aspects": {
+            "customer experience": [
+                "implemented"
+            ],
+            "end-to-end customer journey": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We create opportunities for local artists, designers, and artisans to share their creativity by offering physical spaces within our developments such as public green spaces and exhibition spaces, as well as online opportunities.",
+        "sentence_id": 924,
+        "aspect_categories": {
+            "ecological conservation": [
+                "public green spaces"
+            ]
+        },
+        "aspects": {
+            "public green spaces": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "With a clear and decentralised governance approach, we identify and evaluate the adequacy and effectiveness of our sustainability targets when setting strategy and making day -to-day business decisions.",
+        "sentence_id": 444,
+        "aspect_categories": {
+            "management": [
+                "clear and decentralised governance approach"
+            ]
+        },
+        "aspects": {
+            "clear and decentralised governance approach": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The masterplan of this key infrastructure has been designed to foster meaningful collaboration and connection by combining rich retail experiences in the laneways and station plaza with relaxing green spaces in the central park, as well as future working environments focused on well-being and sustainability.",
+        "sentence_id": 1841,
+        "aspect_categories": {
+            "workplace": [
+                "future working environments",
+                "well-being"
+            ],
+            "ecological conservation": [
+                "relaxing green spaces"
+            ]
+        },
+        "aspects": {
+            "future working environments": [
+                "indeterminate"
+            ],
+            "well-being": [
+                "indeterminate"
+            ],
+            "relaxing green spaces": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "New staff must attend an introduction to ethics in their orientation and must join an ethics training session conducted by a member of the Ethics Committee or from senior management upon completion of their probation.",
+        "sentence_id": 590,
+        "aspect_categories": {
+            "business compliance": [
+                "ethics training session",
+                "ethics committee"
+            ],
+            "management": [
+                "senior management"
+            ],
+            "workplace": [
+                "new staff"
+            ]
+        },
+        "aspects": {
+            "ethics training session": [
+                "implemented"
+            ],
+            "ethics committee": [
+                "indeterminate"
+            ],
+            "senior management": [
+                "indeterminate"
+            ],
+            "new staff": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Support community initiatives and make charitable donations and sponsorships to the local community.",
+        "sentence_id": 239,
+        "aspect_categories": {
+            "outreach": [
+                "charitable donations and sponsorships",
+                "community initiatives",
+                "local community"
+            ]
+        },
+        "aspects": {
+            "charitable donations and sponsorships": [
+                "indeterminate"
+            ],
+            "community initiatives": [
+                "indeterminate"
+            ],
+            "local community": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Some of our products and raw materials are considered to be hazardous and working with hazardous materials can pose a health risk to our employees in the operating plants.",
+        "sentence_id": 944,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "hazardous materials",
+                "health risk"
+            ],
+            "workplace": [
+                "employees"
+            ]
+        },
+        "aspects": {
+            "hazardous materials": [
+                "indeterminate"
+            ],
+            "employees": [
+                "indeterminate"
+            ],
+            "health risk": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "In our business, we adopt a zero-tolerance stance against bribery and corruption.",
+        "sentence_id": 1956,
+        "aspect_categories": {
+            "business compliance": [
+                "bribery",
+                "corruption"
+            ]
+        },
+        "aspects": {
+            "bribery": [
+                "implemented"
+            ],
+            "corruption": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "To continue to provide financial aids to the local communities through donations and sponsorships",
+        "sentence_id": 579,
+        "aspect_categories": {
+            "outreach": [
+                "donations and sponsorships",
+                "financial aids",
+                "local communities"
+            ]
+        },
+        "aspects": {
+            "donations and sponsorships": [
+                "indeterminate"
+            ],
+            "financial aids": [
+                "indeterminate"
+            ],
+            "local communities": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Our quality, innovative and green spaces have strengthened our manufactured capital, enabling us to create greater value for our customers and investors.",
+        "sentence_id": 990,
+        "aspect_categories": {
+            "ecological conservation": [
+                "green spaces"
+            ],
+            "outreach": [
+                "customers"
+            ]
+        },
+        "aspects": {
+            "green spaces": [
+                "implemented"
+            ],
+            "customers": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Aside from ensuring proper procedures are in place to ensure workplace safety, the well-being of our people is of paramount importance as we work towards building an engaged and motivated workforce.",
+        "sentence_id": 23,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "workplace safety"
+            ],
+            "workplace": [
+                "well-being",
+                "engaged and motivated workforce"
+            ]
+        },
+        "aspects": {
+            "workplace safety": [
+                "implemented"
+            ],
+            "well-being": [
+                "implemented"
+            ],
+            "engaged and motivated workforce": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Prudential plc continued its long-term support of Save the Children Emergency Fund, which helps the charity prevent and respond to crises across the world.",
+        "sentence_id": 1762,
+        "aspect_categories": {
+            "outreach": [
+                "charity"
+            ]
+        },
+        "aspects": {
+            "charity": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Monsoon safety campaign is conducted annually to raise  awareness during the monsoon season.",
+        "sentence_id": 1817,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "Monsoon safety campaign"
+            ]
+        },
+        "aspects": {
+            "Monsoon safety campaign": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Workers who handle chemicals within our operations are required to undergo regular trainings which are conducted by field and R&D staff, learning centres and chemical vendors.",
+        "sentence_id": 262,
+        "aspect_categories": {
+            "workplace": [
+                "regular trainings",
+                "learning centres",
+                "field and R&D staff"
+            ]
+        },
+        "aspects": {
+            "regular trainings": [
+                "implemented"
+            ],
+            "learning centres": [
+                "implemented"
+            ],
+            "field and R&D staff": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "All shipping crew members undergo a 'Pre -Joining Briefing', which is an induction programme that covers the safety policies in accordance with the International Safety Management (ISM) Code, Safe Working Environment briefing and Near Miss & Incidents Reporting Procedures.",
+        "sentence_id": 299,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safety policies",
+                "safe working environment briefing",
+                "near miss & incidents reporting procedures"
+            ]
+        },
+        "aspects": {
+            "safety policies": [
+                "implemented"
+            ],
+            "safe working environment briefing": [
+                "implemented"
+            ],
+            "near miss & incidents reporting procedures": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We view feedback and complaints as opportunities for the Bank to learn and improve customer experience.",
+        "sentence_id": 258,
+        "aspect_categories": {
+            "outreach": [
+                "customer experience"
+            ]
+        },
+        "aspects": {
+            "customer experience": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "We will continue to ensure that our employees have access to a diverse range of learning and development programme opportunities.",
+        "sentence_id": 2074,
+        "aspect_categories": {
+            "workplace": [
+                "learning and development programme opportunities",
+                "employees"
+            ]
+        },
+        "aspects": {
+            "learning and development programme opportunities": [
+                "planning"
+            ],
+            "employees": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "In addition, we are progressively adding the 3Rs icon on our packaging to inform our customers that our packaging is recyclable.",
+        "sentence_id": 1183,
+        "aspect_categories": {
+            "outreach": [
+                "customers"
+            ]
+        },
+        "aspects": {
+            "customers": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "The Board continuously evaluates the current and potential risks faced by our business, including those related to ESG matters, and reviews our strategies, metrics and targets as well as internal controls, and necessary improvement measures to manage and mitigate such risks.",
+        "sentence_id": 44,
+        "aspect_categories": {
+            "management": [
+                "internal controls",
+                "board"
+            ]
+        },
+        "aspects": {
+            "internal controls": [
+                "implemented"
+            ],
+            "board": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Regular inspections on fire extinguishers are conducted and signed off.",
+        "sentence_id": 1226,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "fire extinguishers",
+                "regular inspections"
+            ]
+        },
+        "aspects": {
+            "fire extinguishers": [
+                "indeterminate"
+            ],
+            "regular inspections": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Platinum  Becton Dickinson awarded the accolade of Supplier of the Year Platinum to our medical devices segment in its seventh annual BD Supplier Recognition Awards to honour suppliers for their contributions to advancing or supporting key BD initiatives, products, processes and helping to increase customer satisfaction.",
+        "sentence_id": 1905,
+        "aspect_categories": {
+            "outreach": [
+                "customer satisfaction"
+            ]
+        },
+        "aspects": {
+            "customer satisfaction": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The Group adheres to labour standards and complies strictly with local laws, and encourages open communication and complies with the Group's policies and procedures.",
+        "sentence_id": 1828,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "labour standards"
+            ]
+        },
+        "aspects": {}
+    },
+    {
+        "text": "Achieved our target for FY2021 in continuing to raise public awareness of recycling through other means, e.g.",
+        "sentence_id": 197,
+        "aspect_categories": {
+            "outreach": [
+                "public awareness",
+                "recycling"
+            ]
+        },
+        "aspects": {
+            "public awareness": [
+                "implemented"
+            ],
+            "recycling": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "It maps out a framework that a company or organization can follow to set up an effective environmental management system.",
+        "sentence_id": 314,
+        "aspect_categories": {
+            "management": [
+                "environmental management system"
+            ]
+        },
+        "aspects": {
+            "environmental management system": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "We have already eliminated the use of paraquat, a herbicide flagged for concern by our stakeholders due to its high toxicity levels and links to potential risks associated with mishandling or lack of protective equipment.",
+        "sentence_id": 2041,
+        "aspect_categories": {
+            "ecological conservation": [
+                "herbicide"
+            ],
+            "worker & consumer safety compliance": [
+                "protective equipment"
+            ]
+        },
+        "aspects": {
+            "herbicide": [
+                "implemented"
+            ],
+            "protective equipment": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "To that end, we adopt a strict, zero-tolerance stance and a proactive approach towards the prevention of corruption.",
+        "sentence_id": 1955,
+        "aspect_categories": {
+            "business compliance": [
+                "corruption"
+            ]
+        },
+        "aspects": {
+            "corruption": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We are continuously seeking to develop and improve on our training and employee development.",
+        "sentence_id": 131,
+        "aspect_categories": {
+            "workplace": [
+                "employee development",
+                "training"
+            ]
+        },
+        "aspects": {
+            "employee development": [
+                "planning"
+            ],
+            "training": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "We align ourselves to our purpose of spearheading responsible and positive social contributions through our support for chosen charitable organisations.",
+        "sentence_id": 1836,
+        "aspect_categories": {
+            "outreach": [
+                "chosen charitable organisations",
+                "responsible and positive social contributions"
+            ]
+        },
+        "aspects": {
+            "chosen charitable organisations": [
+                "implemented"
+            ],
+            "responsible and positive social contributions": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The ISO 9001:2015 and ISO 9001:2016 standards set forth robust quality management principles with heavy reliance on customer focus.",
+        "sentence_id": 1861,
+        "aspect_categories": {
+            "management": [
+                "robust quality management principles",
+                "customer focus"
+            ]
+        },
+        "aspects": {
+            "robust quality management principles": [
+                "indeterminate"
+            ],
+            "customer focus": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "At the regulatory level, the Singapore Exchange also introduced amendments to its Listing Rules, including its Sustainability Reporting Guide, to give greater focus to climate-related risks and opportunities, as well as diversity.",
+        "sentence_id": 387,
+        "aspect_categories": {
+            "workplace": [
+                "diversity"
+            ],
+            "management": [
+                "climate-related risks and opportunities"
+            ]
+        },
+        "aspects": {
+            "diversity": [
+                "indeterminate"
+            ],
+            "climate-related risks and opportunities": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "The Group recognises the importance of career development for its staff, and believes that a trained workforce is integral to sustainable business operations.",
+        "sentence_id": 901,
+        "aspect_categories": {
+            "workplace": [
+                "career development",
+                "trained workforce",
+                "staff"
+            ]
+        },
+        "aspects": {
+            "career development": [
+                "indeterminate"
+            ],
+            "trained workforce": [
+                "indeterminate"
+            ],
+            "staff": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "This standard sets out the requirements for a food safety management system and maps out what an organisation needs to do to demonstrate its ability to control food safety hazards and ensure food safety.",
+        "sentence_id": 10,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "food safety management system",
+                "food safety hazards",
+                "food safety"
+            ]
+        },
+        "aspects": {
+            "food safety management system": [
+                "indeterminate"
+            ],
+            "food safety hazards": [
+                "indeterminate"
+            ],
+            "food safety": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "To establish clear governance, BOS set up a Sustainable Investment Committee in 2021.",
+        "sentence_id": 1751,
+        "aspect_categories": {
+            "management": [
+                "clear governance"
+            ]
+        },
+        "aspects": {
+            "clear governance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The Group owes a duty of care to the stakeholders to safeguard their confidential information.",
+        "sentence_id": 429,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "confidential information"
+            ]
+        },
+        "aspects": {
+            "confidential information": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "It can prevent the spread of certain infectious diseases and improve overall indoor air quality.",
+        "sentence_id": 537,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "overall indoor air quality"
+            ]
+        },
+        "aspects": {
+            "overall indoor air quality": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "These safety briefings aim to strengthen the safety awareness of employees and to remind them of established safety measures and precautions, as well as safety protocols in the event of similar incidents.",
+        "sentence_id": 269,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safety awareness",
+                "safety briefings",
+                "safety protocols",
+                "established safety measures and precautions"
+            ],
+            "workplace": [
+                "employees"
+            ]
+        },
+        "aspects": {
+            "safety awareness": [
+                "planning"
+            ],
+            "safety briefings": [
+                "implemented"
+            ],
+            "safety protocols": [
+                "planning"
+            ],
+            "employees": [
+                "planning"
+            ],
+            "established safety measures and precautions": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "SingPost continues to engage our business partners in the adoption of ESG principles and commitment to responsible practices, developing resilience to emerging ESG expectations.",
+        "sentence_id": 349,
+        "aspect_categories": {
+            "outreach": [
+                "business partners"
+            ]
+        },
+        "aspects": {
+            "business partners": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Besides, we also implemented the following initiatives to enhance customer satisfaction in 2021",
+        "sentence_id": 137,
+        "aspect_categories": {
+            "outreach": [
+                "customer satisfaction"
+            ]
+        },
+        "aspects": {
+            "customer satisfaction": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "CapitaLand worked closely with its service partners to provide a safe environment for all to use.",
+        "sentence_id": 838,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safe environment"
+            ],
+            "outreach": [
+                "service partners"
+            ]
+        },
+        "aspects": {
+            "safe environment": [
+                "implemented"
+            ],
+            "service partners": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Through health, education, promotion of better sanitation and infrastructure and inclusive development, our CSR efforts are directed at improving the lives of people who live in the vicinity of our facilities and beyond.",
+        "sentence_id": 288,
+        "aspect_categories": {
+            "outreach": [
+                "sanitation and infrastructure",
+                "inclusive development",
+                "csr efforts",
+                "education",
+                "health"
+            ]
+        },
+        "aspects": {
+            "sanitation and infrastructure": [
+                "implemented"
+            ],
+            "inclusive development": [
+                "implemented"
+            ],
+            "csr efforts": [
+                "implemented"
+            ],
+            "education": [
+                "implemented"
+            ],
+            "health": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We will continue to enhance our community engagement events in the future.",
+        "sentence_id": 1833,
+        "aspect_categories": {
+            "outreach": [
+                "community engagement events"
+            ]
+        },
+        "aspects": {
+            "community engagement events": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "The Board is responsible to ensure effective corporate governance across all our operations.",
+        "sentence_id": 670,
+        "aspect_categories": {
+            "management": [
+                "effective corporate governance",
+                "board"
+            ]
+        },
+        "aspects": {
+            "effective corporate governance": [
+                "indeterminate"
+            ],
+            "board": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "To enhance employee engagement and continue to foster corporate social responsibility, AMOS participated in a charitable drive, where employees packed food items which were donated to Willing Hearts, a charitable organization which operates a soup kitchen that prepares, cooks, and distributes daily meals to over 69 locations across Singapore, 365 days a year.",
+        "sentence_id": 340,
+        "aspect_categories": {
+            "workplace": [
+                "employee engagement",
+                "employees"
+            ],
+            "outreach": [
+                "charitable drive",
+                "charitable organization",
+                "corporate social responsibility"
+            ]
+        },
+        "aspects": {
+            "employee engagement": [
+                "implemented"
+            ],
+            "charitable drive": [
+                "implemented"
+            ],
+            "charitable organization": [
+                "implemented"
+            ],
+            "corporate social responsibility": [
+                "implemented"
+            ],
+            "employees": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We are committed to improve on our occupational health and safety initiatives and conduct regular reviews of our programmes, processes, risk assessments and controls.",
+        "sentence_id": 69,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "occupational health and safety initiatives"
+            ],
+            "management": [
+                "risk assessments and controls"
+            ]
+        },
+        "aspects": {
+            "occupational health and safety initiatives": [
+                "planning"
+            ],
+            "risk assessments and controls": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "Special emphasis is laid on the gradient and width of haul roads and ramps and operating bench widths to ensure safe operations.",
+        "sentence_id": 281,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safe operations"
+            ]
+        },
+        "aspects": {
+            "safe operations": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Provide property related services that are environmentally friendly and which benefit the social community.",
+        "sentence_id": 1770,
+        "aspect_categories": {
+            "outreach": [
+                "social community"
+            ]
+        },
+        "aspects": {
+            "social community": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "The Group also maintains a strong focus on good corporate governance and risk management practices.",
+        "sentence_id": 1768,
+        "aspect_categories": {
+            "management": [
+                "good corporate governance",
+                "risk management practices"
+            ]
+        },
+        "aspects": {
+            "good corporate governance": [
+                "implemented"
+            ],
+            "risk management practices": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "With these risks in mind, SIA continues to develop and update our crisis response and business continuity plans to minimise potential business disruptions.",
+        "sentence_id": 448,
+        "aspect_categories": {
+            "management": [
+                "business continuity plans",
+                "crisis response",
+                "business disruptions"
+            ]
+        },
+        "aspects": {
+            "business continuity plans": [
+                "implemented"
+            ],
+            "crisis response": [
+                "implemented"
+            ],
+            "business disruptions": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We aim to continue to adhere to our high-quality service standards, improve customer satisfaction and provide tenants with a comfortable, safe and convenient service experience.",
+        "sentence_id": 56,
+        "aspect_categories": {
+            "outreach": [
+                "customer satisfaction",
+                "comfortable, safe and convenient service experience"
+            ]
+        },
+        "aspects": {
+            "customer satisfaction": [
+                "planning"
+            ],
+            "comfortable, safe and convenient service experience": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "In FY 2020, the Manager integrated environmental risks into CEREIT's ERM framework, allowing these risks to be considered and managed holistically along with other organisational risks.",
+        "sentence_id": 1136,
+        "aspect_categories": {
+            "management": [
+                "environmental risks",
+                "organisational risks",
+                "risks",
+                "manager"
+            ]
+        },
+        "aspects": {
+            "environmental risks": [
+                "implemented"
+            ],
+            "organisational risks": [
+                "implemented"
+            ],
+            "risks": [
+                "implemented"
+            ],
+            "manager": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The Group targets to increase the competence of our employees through the internal training programs such as leadership and personality training  so that they are able to contribute effectively to the Group.",
+        "sentence_id": 636,
+        "aspect_categories": {
+            "workplace": [
+                "internal training programs",
+                "leadership and personality training",
+                "employees"
+            ]
+        },
+        "aspects": {
+            "internal training programs": [
+                "planning"
+            ],
+            "leadership and personality training": [
+                "planning"
+            ],
+            "employees": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "General Disclosure Information on: (a) the policies; and (b) compliance with relevant laws and regulations that have a significant impact on the issuer relating to preventing child and forced labour.",
+        "sentence_id": 2007,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "child and forced labour"
+            ],
+            "business compliance": [
+                "compliance"
+            ]
+        },
+        "aspects": {
+            "child and forced labour": [
+                "indeterminate"
+            ],
+            "compliance": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Hence, we are committed to conduct business in a fair and ethical manner across all aspects of our operations while maintaining accountability to our valuable stakeholders.",
+        "sentence_id": 1782,
+        "aspect_categories": {
+            "management": [
+                "fair and ethical manner"
+            ]
+        },
+        "aspects": {
+            "fair and ethical manner": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "The Group has plans to set up a coral conservation programme at the resort which includes a coral garden and coral nursery to preserve the coral reef.",
+        "sentence_id": 435,
+        "aspect_categories": {
+            "ecological conservation": [
+                "coral conservation programme",
+                "coral garden",
+                "coral nursery",
+                "coral reef"
+            ]
+        },
+        "aspects": {
+            "coral conservation programme": [
+                "planning"
+            ],
+            "coral garden": [
+                "planning"
+            ],
+            "coral nursery": [
+                "planning"
+            ],
+            "coral reef": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "As such, we endeavour to adopt just, dynamic, and progressive employment practices.",
+        "sentence_id": 352,
+        "aspect_categories": {
+            "workplace": [
+                "just, dynamic, and progressive employment practices"
+            ]
+        },
+        "aspects": {
+            "just, dynamic, and progressive employment practices": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "In 2020, the Workplace Safety Promotion Centre was established to augment existing programmes and training on workplace safety with the aim to reinforce workplace safety culture and mindset amongst our workforce.",
+        "sentence_id": 302,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "workplace safety culture and mindset",
+                "workplace safety",
+                "existing programmes and training"
+            ]
+        },
+        "aspects": {
+            "workplace safety culture and mindset": [
+                "implemented"
+            ],
+            "workplace safety": [
+                "implemented"
+            ],
+            "existing programmes and training": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Compliance with Singapore Exchange (SGX) Rules  This report is in accordance with Listing Rule 711A, which states that a sustainability report must be issued no later than 5 months after the end of the financial year.",
+        "sentence_id": 2043,
+        "aspect_categories": {
+            "business compliance": [
+                "compliance"
+            ]
+        },
+        "aspects": {
+            "compliance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We respect human rights and support the elimination of all forms of forced and compulsory labour, especially child labour.",
+        "sentence_id": 9,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "human rights",
+                "forced and compulsory labour",
+                "child labour"
+            ]
+        },
+        "aspects": {
+            "human rights": [
+                "implemented"
+            ],
+            "forced and compulsory labour": [
+                "implemented"
+            ],
+            "child labour": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We recognise the importance of a robust and sustainable supply chain management  to mitigate our operational and business risks .",
+        "sentence_id": 712,
+        "aspect_categories": {
+            "management": [
+                "robust and sustainable supply chain management",
+                "operational and business risks"
+            ]
+        },
+        "aspects": {
+            "robust and sustainable supply chain management": [
+                "indeterminate"
+            ],
+            "operational and business risks": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "The Manager abides by fair employment practices and ensures competitive remuneration to retain existing and attract new talent.",
+        "sentence_id": 59,
+        "aspect_categories": {
+            "workplace": [
+                "fair employment practices",
+                "competitive remuneration"
+            ],
+            "management": [
+                "manager"
+            ]
+        },
+        "aspects": {
+            "fair employment practices": [
+                "implemented"
+            ],
+            "competitive remuneration": [
+                "implemented"
+            ],
+            "manager": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "They place a great deal of trust in us to protect their data and IP to prevent the theft of sensitive information.",
+        "sentence_id": 2052,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "data",
+                "sensitive information",
+                "IP"
+            ]
+        },
+        "aspects": {
+            "data": [
+                "indeterminate"
+            ],
+            "sensitive information": [
+                "indeterminate"
+            ],
+            "IP": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "W e have considered the recommendations of  an external consultant for the selection of material topics as well as compliance with the GRI Standards and SGX -ST Listing Rules when establishing our sustainability reporting framework.",
+        "sentence_id": 2000,
+        "aspect_categories": {
+            "business compliance": [
+                "compliance"
+            ]
+        },
+        "aspects": {
+            "compliance": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "As a business and operational entity, Vietnam had 1,100 permanent employees and the number of employees remained relatively stable throughout the reporting period.",
+        "sentence_id": 540,
+        "aspect_categories": {
+            "workplace": [
+                "permanent employees",
+                "employees"
+            ]
+        },
+        "aspects": {
+            "permanent employees": [
+                "indeterminate"
+            ],
+            "employees": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "Given rising data privacy concerns both locally and globally, CDL needs to be mindful of compliance requirements for international and local data privacy protection laws.",
+        "sentence_id": 2088,
+        "aspect_categories": {
+            "data and cybersecurity protection": [
+                "data privacy concerns",
+                "international and local data privacy protection laws"
+            ],
+            "business compliance": [
+                "compliance requirements"
+            ]
+        },
+        "aspects": {
+            "data privacy concerns": [
+                "indeterminate"
+            ],
+            "compliance requirements": [
+                "indeterminate"
+            ],
+            "international and local data privacy protection laws": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "In addition to socio-economic benefits, these alternative livelihood projects can help promote forest conservation as the local communities are less likely to engage in forest clearing activities.",
+        "sentence_id": 160,
+        "aspect_categories": {
+            "ecological conservation": [
+                "forest conservation"
+            ],
+            "outreach": [
+                "local communities"
+            ]
+        },
+        "aspects": {
+            "forest conservation": [
+                "indeterminate"
+            ],
+            "local communities": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "We provide fair employment opportunities to all, regardless of age, gender, race, or nationality.",
+        "sentence_id": 243,
+        "aspect_categories": {
+            "workplace": [
+                "fair employment opportunities"
+            ]
+        },
+        "aspects": {
+            "fair employment opportunities": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The Centre was specially curated with relevant content, exhibits and news media to create safety awareness, and offers an integrated learning environment combining classroom-based lessons and experiential and visual learning for participants.",
+        "sentence_id": 102,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "safety awareness"
+            ],
+            "workplace": [
+                "integrated learning environment",
+                "classroom-based lessons",
+                "experiential and visual learning"
+            ]
+        },
+        "aspects": {
+            "safety awareness": [
+                "indeterminate"
+            ],
+            "integrated learning environment": [
+                "indeterminate"
+            ],
+            "classroom-based lessons": [
+                "indeterminate"
+            ],
+            "experiential and visual learning": [
+                "indeterminate"
+            ]
+        }
+    },
+    {
+        "text": "ESG risks have been integrated into the Company's overall risk assessment process.",
+        "sentence_id": 452,
+        "aspect_categories": {
+            "management": [
+                "overall risk assessment process",
+                "ESG risks"
+            ]
+        },
+        "aspects": {
+            "overall risk assessment process": [
+                "implemented"
+            ],
+            "ESG risks": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "We will continue to remain fully committed to continue prioritising suppliers with sustainable practices  while generating positive economic and social benefits for the local communities we operate in.",
+        "sentence_id": 271,
+        "aspect_categories": {
+            "outreach": [
+                "local communities"
+            ]
+        },
+        "aspects": {
+            "local communities": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "Good corporate practices such as anti-corruption and fraud prevention have high importance and high priority on the Group's agenda .",
+        "sentence_id": 451,
+        "aspect_categories": {
+            "management": [
+                "good corporate practices"
+            ],
+            "business compliance": [
+                "anti-corruption",
+                "fraud prevention"
+            ]
+        },
+        "aspects": {
+            "good corporate practices": [
+                "planning"
+            ],
+            "anti-corruption": [
+                "planning"
+            ],
+            "fraud prevention": [
+                "planning"
+            ]
+        }
+    },
+    {
+        "text": "As a food manufacturing company, we place a significant emphasis on ensuring that our products are healthy and safe for consumption.",
+        "sentence_id": 1133,
+        "aspect_categories": {
+            "worker & consumer safety compliance": [
+                "healthy",
+                "safe"
+            ]
+        },
+        "aspects": {
+            "healthy": [
+                "implemented"
+            ],
+            "safe": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "Forest conservation: We have planted more than 2,600 trees, including 76 different types of forest plants, among which are many rare local varieties such as Vatica, Ulin, Meranti Merah, Merbau, Kruing, Manglid, and Suren.",
+        "sentence_id": 1968,
+        "aspect_categories": {
+            "ecological conservation": [
+                "forest conservation",
+                "trees",
+                "forest plants"
+            ]
+        },
+        "aspects": {
+            "forest conservation": [
+                "implemented"
+            ],
+            "trees": [
+                "implemented"
+            ],
+            "forest plants": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "The Group continues to maintain a consistent gender ratio among total employees over the last 4 years.",
+        "sentence_id": 268,
+        "aspect_categories": {
+            "workplace": [
+                "consistent gender ratio",
+                "total employees"
+            ]
+        },
+        "aspects": {
+            "consistent gender ratio": [
+                "implemented"
+            ],
+            "total employees": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "To promote equal opportunity, we established variou s human resource related processes as follows.",
+        "sentence_id": 72,
+        "aspect_categories": {
+            "workplace": [
+                "equal opportunity"
+            ]
+        },
+        "aspects": {
+            "equal opportunity": [
+                "implemented"
+            ]
+        }
+    },
+    {
+        "text": "This is our fundamental guiding principle in every aspect of our operation.",
+        "sentence_id": 1134,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "We find ways for them to complement one another at work.",
+        "sentence_id": 1601,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The Group will continue to seek and capitalise on business opportunities that will provide our shareholders long term value whilst exercising financial prudence.",
+        "sentence_id": 1421,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "This report has been prepared in accordance to the GRI Standards: Core Option.",
+        "sentence_id": 1458,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "With an established history since 1995, Katrina Group Ltd. (Katrina‚ or the Group) is a Food & Beverage (F&B) group that specialises in multi-cuisine concepts and restaurant operations.",
+        "sentence_id": 1654,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "He is 54 years old and a wheelchair user.",
+        "sentence_id": 1058,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "We believe that innovation and data analytics will pave the way for more significant improvements, and have started engaging research institutions to explore such ideas.",
+        "sentence_id": 1513,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Since 2019, DBS Foundation has supported in their expansion into India.",
+        "sentence_id": 1404,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Challenges still abound and the business climate remains challenging.",
+        "sentence_id": 1129,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "As an outcome of our good sustainability governance and strategy implemented over the years, Sembcorp Marine put together a Sustainability-linked Finance Framework which outlines our Key Performance Indicators and Sustainability Performance Targets.",
+        "sentence_id": 998,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Following this, on 2 February 2011, upon the approval by shareholders, the Company was renamed as Chinese Global Investors Group Ltd. to reflect its diversification into financial services and investment activities.",
+        "sentence_id": 1690,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "As this is the first year of reporting, there is no reportable changes to the organization and its supply chain.",
+        "sentence_id": 1577,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "It has not been examined or approved by the Singapore Exchange Securities Trading Limited (the SGX-ST) and the SGX-ST assumes no responsibility for the contents of this document, including the correctness of any of the statements or opinions made or reports contained in this document.",
+        "sentence_id": 1710,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "At Shen Yao Holdings Limited, we are committed to playing our part in supporting 17 GLOBAL GOALS.",
+        "sentence_id": 1252,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Today, SingPost comprises a 4,183-strong family in Singapore.",
+        "sentence_id": 1563,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Ere-S was not involved in the development of the Report or any other aspects or projects related to the sustainability framework of FPL.",
+        "sentence_id": 1223,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Our U.S. businesses in the Road Construction Equipment and Truck segments were affected by reduced demand as a result of the COVID-19 pandemic.",
+        "sentence_id": 1655,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "In addition, in line with our commitment to continuous improvement, the company will identify ESG related areas to intensify our efforts.",
+        "sentence_id": 1349,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "In FY2021, the vessel chartering segment accounted for 81% of Group revenue as it included revenue from RVOS.",
+        "sentence_id": 994,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "More information on the Group will be disclosed in the FY2020 Annual Report.",
+        "sentence_id": 1711,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "For financial year 2020, the Group reported revenue of $7.2b, which was a 9% drop compared to the year before.",
+        "sentence_id": 1626,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The framework is a structured and discipline approach to identifying and assessing key risks and their potential impact on the achievement of the Group's key objectives.",
+        "sentence_id": 1696,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Members are consistently upskilled to tap on   technologies and resources around them effectively to improve the quality of services provided.",
+        "sentence_id": 181,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "This refers to voluntary turnover and does not include figures attributable to internal transfers from one entity to another entity, non-renewal of contracts, etc.",
+        "sentence_id": 1018,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "We believe in eating well and living right and that there is not a standard size or shape anyone should be in.",
+        "sentence_id": 1662,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "As a result, we had to move the designated location, including the related permits.",
+        "sentence_id": 1398,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "As such, the FY2021 figures have not been disclosed in this Sustainability Report.",
+        "sentence_id": 1156,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The Group is headquartered in Singapore and it's core business activities are in vessel ownership, chartering, brokering and the provision of complementary vessel management services in Middle East, North Africa, Central Asia and Southeast Asia.",
+        "sentence_id": 1640,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Relative financial performance of the Group in terms of profit to its industry peers.",
+        "sentence_id": 1341,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "These natural hazards pose varying severity to our businesses.",
+        "sentence_id": 1051,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "These 17 goals and 169 sub-targets serve to guide nations on adopting the SDGs so as to achieve them by 2030.",
+        "sentence_id": 1586,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Direct Selling Association is to act as a communication bridge between the direct selling industry and the regulators, the media, consumers and other relevant social members and is focused on.",
+        "sentence_id": 1040,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Measures are taken to manage the effects of the raised complaints.",
+        "sentence_id": 1060,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "We are on track towards our target by 2030.",
+        "sentence_id": 1547,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Every individual is responsible for shredding all papers, including confidential documents, before disposing into paper recycling boxes situated near photocopiers and printers.",
+        "sentence_id": 1553,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The aim of self-assessment is to promote better communication with our suppliers and help them self-improve.",
+        "sentence_id": 1715,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Building a sustainable future is the key objective of BH Global's transformation since 2013, to embrace technologies in relation to Environment, Digitalisation and Electrification.",
+        "sentence_id": 1075,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "While implementing automation and mechanisation in our integrated operations, we develop in-house technology to transform the way we operate.",
+        "sentence_id": 1347,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "It has offices and manufacturing facilities in Singapore and Malaysia.",
+        "sentence_id": 1522,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The list of principal entities within the JC&C Group of companies can be found in our consolidated Financial Statements 2021 .",
+        "sentence_id": 1191,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Passengers can book their pre-departure Covid-19 test at one of seven participating clinics in Singapore via a dedicated online portal.",
+        "sentence_id": 1739,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The Group is always ready to extend its social responsibility outside its operations to support and build a stronger local presence.",
+        "sentence_id": 1265,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "As at 31 March 2022, SIAEC holds certifications from 27 aviation authorities globally, including the CAAS, the Federal Aviation Administration and the European Union Aviation Safety Agency.",
+        "sentence_id": 1268,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Members of the Sustainability Committee have extensive knowledge and experience, and have a sound understanding of the company's strategy, risk, and opportunities.",
+        "sentence_id": 1057,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "We immediately responded  to the situation and proactively communicated with local agents and crew manning agents.",
+        "sentence_id": 1248,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "STEM education is receiving ever more attention and support from government agencies and educational institutions, making us confident this growth trend will continue for years to come.",
+        "sentence_id": 1147,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "It says a lot about Civmec and the company we are.",
+        "sentence_id": 1574,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "We are dedicated to the consistent implementation of our procurement policies and procedures across our entire operation.",
+        "sentence_id": 1470,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The disruption caused by the COVID-19 pandemic has showed us the importance of building a business that is resilient and adaptable to change.",
+        "sentence_id": 1165,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Novaland's total accumulated and under-development land fund reached approximately 10,600 hectares by the end of 2021.",
+        "sentence_id": 1085,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Approximately 25 per cent of the $13 million was awarded through the Origin Foundation.",
+        "sentence_id": 1516,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "It should be noted that all targets have been set assuming normalised and stable conditions, which are not affected by serious crises such as the pandemic.",
+        "sentence_id": 1221,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The Group recognises the importance of our stakeholders' interests and expectations in driving the  success of our business as well as our sustainability performance.",
+        "sentence_id": 1266,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "To illustrate their relative degree of importance, the material topics have been plotted on a materiality matrix.",
+        "sentence_id": 1486,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The recent COP26 summit in Glasgow demonstrated a rapidly growing number of private sector actors have embraced the urgent need to address environmental and social challenges.",
+        "sentence_id": 412,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "It is necessary for our doctors and specialists to be updated with the latest development in their field to perform to the best of their abilities.",
+        "sentence_id": 1697,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Performance data for the corresponding material topic is reported in good faith and to the best of our knowledge.",
+        "sentence_id": 1581,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "For this first Report, we focus on our Singapore operations, providing insights into the way we do business, while highlighting the economic, environmental and social aspects of our developments and operations in accordance with the Global Reporting Initiative Guidelines (G4 Core).",
+        "sentence_id": 1490,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Old appliances that were collected back are disposed of by licensed collectors.",
+        "sentence_id": 1182,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "We also work closely with the RSPO on any hotspots detected.",
+        "sentence_id": 1568,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "‚Ä¢ In 2019, we became signatory to and pledged our support for the Task Force on Climate-related Financial Disclosures (TCFD).",
+        "sentence_id": 1374,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Our audits were made for the purpose of forming an opinion on the basic financial statements taken as a whole.",
+        "sentence_id": 1642,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The following key material aspects are identified for FY2021.",
+        "sentence_id": 1360,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Hyflux's track record spans across Asia, the Middle East and Africa.",
+        "sentence_id": 1403,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Our approved supplier list is updated and evaluated regularly based on factors such as quality of products, payment terms, competitive pricing and timeliness of delivery .",
+        "sentence_id": 1678,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "No material variances were made to the policy.",
+        "sentence_id": 1003,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Parents can also purchase this for their children.",
+        "sentence_id": 1379,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "We invest continually in our technology capabilities‚ from artificial intelligence (AI), data analytics to cloud computing ‚ to make banking seamless, simpler, smarter and safer for them.",
+        "sentence_id": 1373,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "These economic variables and their associated impact on the PD, EAD and LGD vary by financial instrument.",
+        "sentence_id": 1638,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Feedback and issues received via (RateIt) have also been used for coaching and identifying areas for improvement.",
+        "sentence_id": 1172,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Our Group minimises waste through the 3Rs' approach.",
+        "sentence_id": 1188,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The data and information provided have not been verified by an independent third party.",
+        "sentence_id": 1747,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Cedric Yap has extensive professional experience in the finance, real estate, information technology and transportation industries.",
+        "sentence_id": 1355,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Our internal processes also ensure that there is independent investigation of any reported incidents and appropriate follow-up actions.",
+        "sentence_id": 1021,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The contractor is primarily responsible with the procurement of the required equipment and materials for the building, conversion and repairs work on the vessels.",
+        "sentence_id": 1138,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Any gains or losses arising from changes in fair value of the financial liabilities are recognised in the Profit or Loss Statement.",
+        "sentence_id": 1735,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "There is no significant change to the organisation's size, structure, ownership, or supply chain during the year.",
+        "sentence_id": 1064,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "MindChamps regularly invites analysts to meetings after our half year and full year financial results announcements.",
+        "sentence_id": 1481,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Fibres and PK shells are used to generate power in our palm oil mills and refineries.",
+        "sentence_id": 1721,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Subsequently, the bankruptcy petition court hearing was held on 14 May 2021 and the Thai Bankruptcy Court granted an absolute  4  receivership order against KNK.",
+        "sentence_id": 1602,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "To improve comparability, the material topics have been benchmarked against selected industry peer groups.",
+        "sentence_id": 1037,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "In FY2021, there were no instances of potential or actual negative environmental or social impacts along our supply chain.",
+        "sentence_id": 1671,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "In 2021, a total of 98 ICU cases were transferred to general ward.",
+        "sentence_id": 1162,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "In 2015, our Singapore Taxi Business Unit received the Gold Award at the Singapore HEALTH Awards 2015 organised by the HPB.",
+        "sentence_id": 1413,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "This equated to an average of 3.9 days per team member in FY2020, a significant increase year-on-year as compared to 1.4 days per team member in FY2019.",
+        "sentence_id": 1579,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Fortunately, work has since resumed as the country progressively moved out of lockdown.",
+        "sentence_id": 1702,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Established in 30 March 1995, the Manufacturing Business segment specialises in manufacturing NVH components such as headliners and engine outers which are incorporated into various parts of automobiles, including the ceiling, dashboard, hood and boot, as well as non-NVH components such  as parcel trays and board assembly decks.",
+        "sentence_id": 1269,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The shipyards, with a combined waterfront of 205 meters, enable Kim Heng to carry out a multitude of services, including offshore rig repair, maintenance and refurbishment, fabrication, vessel newbuilding and afloat repairs.",
+        "sentence_id": 1385,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Please read this report with other sections of the Annual Report.",
+        "sentence_id": 1466,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Thereafter, they would do a second self-test.",
+        "sentence_id": 1130,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The Group has performed historical analysis and identified key economic variables impacting credit risk and ECLs for each portfolio.",
+        "sentence_id": 1637,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "Since the onset of the COVID -19 pandemic, lockdowns have dampened demand in local and global markets.",
+        "sentence_id": 1249,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "At the end of FY2019, a newly discovered coronavirus emerged and resulted in the formidable COVID-19 outbreak which evolved into a global pandemic.",
+        "sentence_id": 1742,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    },
+    {
+        "text": "The DPS is a term-life insurance scheme that would pay insured members and their families a lump sum should the insured meet an untimely death, or suffer from terminal illness or total permanent disability.",
+        "sentence_id": 1233,
+        "aspect_categories": {
+            "no aspect category": [
+                "no aspect"
+            ]
+        },
+        "aspects": {
+            "no aspect": [
+                "no action"
+            ]
+        }
+    }
+]
