@@ -52,9 +52,25 @@ The datasets used in this work are located in the `dataset` directory, which inc
 If you find this work useful, please use the following citation:
 
 ```bibtex
-@article{ong2025greeenwash,
-  title={Towards Robust ESG Analysis Against Greenwashing Risks: Aspect-Action Analysis with Cross-Category Generalization},
-  author={Ong, Keane and Mao, Rui and Varshney, Deeksha and Cambria, Erik and Mengaldo, Gianmarco},
-  journal={arXiv preprint arXiv:2502.15821},
-  year={2025}
+@inproceedings{ong-etal-2025-towards-robust,
+    title = "Towards Robust {ESG} Analysis Against Greenwashing Risks: Aspect-Action Analysis with Cross-Category Generalization",
+    author = "Ong, Keane  and
+      Mao, Rui  and
+      Varshney, Deeksha  and
+      Cambria, Erik  and
+      Mengaldo, Gianmarco",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.723/",
+    doi = "10.18653/v1/2025.acl-long.723",
+    pages = "14854--14879",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Sustainability reports are key for evaluating companies' environmental, social and governance (ESG) performance. To analyze these reports, NLP approaches can efficiently extract ESG insights at scale. However, even the most advanced NLP methods lack robustness against ESG content that is greenwashed {--} i.e. sustainability claims that are misleading, exaggerated, and fabricated. Accordingly, existing NLP approaches often extract insights that reflect misleading or exaggerated sustainability claims rather than objective ESG performance. To tackle this issue, we introduce A3CG - \textbf{A}spect-\textbf{A}ction \textbf{A}nalysis with Cross-\textbf{C}ategory \textbf{G}eneralization, as a novel dataset to improve the robustness of ESG analysis amid the prevalence of greenwashing. By explicitly linking sustainability aspects with their associated actions, A3CG facilitates a more fine-grained and transparent evaluation of sustainability claims, ensuring that insights are grounded in verifiable actions rather than vague or misleading rhetoric. Additionally, A3CG emphasizes cross-category generalization. This ensures robust model performance in aspect-action analysis even when companies change their reports to selectively favor certain sustainability areas. Through experiments on A3CG, we analyze state-of-the-art supervised models and LLMs, uncovering their limitations and outlining key directions for future research."
 }
