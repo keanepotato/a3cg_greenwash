@@ -1,4 +1,6 @@
 saved_model/
 __pycache__/
-models/
 utils/
+models/*
+!models/grace/
+!models/grace/**

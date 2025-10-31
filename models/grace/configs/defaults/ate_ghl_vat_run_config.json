@@ -1,0 +1,18 @@
+{
+    "CUDA_VISIBLE_DEVICES": "0",
+    "do_train": true,
+    "do_eval": true,
+    "data_dir": "/home/esg_acaa/code/baselines/GRACE/data",
+    "data_name": "lap",
+    "output_dir": "/home/esg_acaa/code/baselines/GRACE/out_lap",
+    "bert_model": "bert-base-uncased",
+    "do_lower_case": true,
+    "max_seq_length": 128,
+    "warmup_proportion": 0.1,
+    "train_batch_size": 32,
+    "num_train_epochs": 1,
+    "learning_rate": 3e-5,
+    "use_ghl": true,
+    "use_vat": true,
+    "init_model": "/home/esg_acaa/code/baselines/GRACE/out_lap/pytorch_model.bin.4"
+}

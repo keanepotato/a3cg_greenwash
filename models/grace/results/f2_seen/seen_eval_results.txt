@@ -1,0 +1,3 @@
+Test Precision: 0.6108374384236454, Test Recall: 0.6526315789473685, Test F1: 0.6310432569974556
+Aspect Term Extraction Metrics: {'ate_p': 0.7413793103448276, 'ate_r': 0.7921052631578948, 'ate_f1': 0.7659033078880408}
+Action Metrics: {'act_p': 0.5153374233128835, 'act_r': 0.56, 'act_f1': 0.536741214057508}

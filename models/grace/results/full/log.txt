@@ -1,0 +1,100 @@
+2025-10-31 19:07:16,417:INFO: Effective parameters:
+2025-10-31 19:07:16,417:INFO:   bert_model: bert-base-uncased
+2025-10-31 19:07:16,417:INFO:   cache_dir: 
+2025-10-31 19:07:16,417:INFO:   config_path: configs/aspect_action/full_dataset_test.json
+2025-10-31 19:07:16,417:INFO:   data_dir: processed_data/full
+2025-10-31 19:07:16,417:INFO:   data_name: disclosures
+2025-10-31 19:07:16,417:INFO:   decoder_shared_layer: 3
+2025-10-31 19:07:16,417:INFO:   do_eval: True
+2025-10-31 19:07:16,417:INFO:   do_lower_case: True
+2025-10-31 19:07:16,417:INFO:   do_train: False
+2025-10-31 19:07:16,417:INFO:   eval_batch_size: 32
+2025-10-31 19:07:16,417:INFO:   fp16: False
+2025-10-31 19:07:16,417:INFO:   gradient_accumulation_steps: 1
+2025-10-31 19:07:16,417:INFO:   init_model: keentomato/a3cg_greenwash_grace_fd
+2025-10-31 19:07:16,417:INFO:   learning_rate: 3e-06
+2025-10-31 19:07:16,417:INFO:   local_rank: -1
+2025-10-31 19:07:16,417:INFO:   loss_scale: 0
+2025-10-31 19:07:16,417:INFO:   max_seq_length: 128
+2025-10-31 19:07:16,417:INFO:   no_cuda: False
+2025-10-31 19:07:16,417:INFO:   num_decoder_layer: 2
+2025-10-31 19:07:16,417:INFO:   num_thread_reader: 0
+2025-10-31 19:07:16,417:INFO:   num_train_epochs: 20
+2025-10-31 19:07:16,417:INFO:   output_dir: output_model/full
+2025-10-31 19:07:16,417:INFO:   prediction_file_path: predictions/seen_test.csv
+2025-10-31 19:07:16,417:INFO:   seed: 42
+2025-10-31 19:07:16,417:INFO:   server_ip: 
+2025-10-31 19:07:16,417:INFO:   server_port: 
+2025-10-31 19:07:16,417:INFO:   task_name: ate_asc
+2025-10-31 19:07:16,417:INFO:   test_file: None
+2025-10-31 19:07:16,417:INFO:   train_batch_size: 32
+2025-10-31 19:07:16,417:INFO:   train_file: None
+2025-10-31 19:07:16,417:INFO:   use_decoder: True
+2025-10-31 19:07:16,417:INFO:   use_ghl: True
+2025-10-31 19:07:16,417:INFO:   use_vat: False
+2025-10-31 19:07:16,417:INFO:   valid_file: None
+2025-10-31 19:07:16,417:INFO:   verbose_logging: False
+2025-10-31 19:07:16,417:INFO:   warmup_proportion: 0.1
+2025-10-31 19:07:16,466:INFO: device: cuda n_gpu: 1, distributed training: False, 16-bits training: False
+2025-10-31 19:07:17,218:INFO: loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /root/.pytorch_pretrained_bert/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2025-10-31 19:07:17,323:INFO: Loaded train file: processed_data/full/disclosures_train.txt
+2025-10-31 19:07:17,718:INFO: AT Labels are = [O, B-AP, I-AP]:
+2025-10-31 19:07:17,718:INFO: AS Labels are = [O, indeterminate, implemented, planning]:
+2025-10-31 19:07:18,069:INFO: loading archive file /root/.cache/huggingface/hub/models--keentomato--a3cg_greenwash_grace_fd/snapshots/36cf12a3af0c72b544a91a44986a02be9735b60c
+2025-10-31 19:07:18,605:INFO: loading archive file /home/esg_acaa/a3cg_greenwash/models/grace/decoder-bert-base
+2025-10-31 19:07:19,593:INFO: Loaded val file: processed_data/full/disclosures_test.txt
+2025-10-31 19:07:19,764:INFO: ***** Running test *****
+2025-10-31 19:07:19,765:INFO:   Num examples = 399
+2025-10-31 19:07:19,765:INFO:   Batch size = 32
+2025-10-31 19:07:20,420:INFO: AT p:0.7298	r:0.7810	f1:0.7545
+2025-10-31 19:07:20,422:INFO: AS p:0.6489	r:0.6944	f1:0.6709
+2025-10-31 19:12:31,223:INFO: Effective parameters:
+2025-10-31 19:12:31,223:INFO:   bert_model: bert-base-uncased
+2025-10-31 19:12:31,223:INFO:   cache_dir: 
+2025-10-31 19:12:31,223:INFO:   config_path: configs/aspect_action/full_dataset_test.json
+2025-10-31 19:12:31,223:INFO:   data_dir: processed_data/full
+2025-10-31 19:12:31,223:INFO:   data_name: disclosures
+2025-10-31 19:12:31,223:INFO:   decoder_shared_layer: 3
+2025-10-31 19:12:31,223:INFO:   do_eval: True
+2025-10-31 19:12:31,223:INFO:   do_lower_case: True
+2025-10-31 19:12:31,223:INFO:   do_train: False
+2025-10-31 19:12:31,223:INFO:   eval_batch_size: 32
+2025-10-31 19:12:31,223:INFO:   fp16: False
+2025-10-31 19:12:31,223:INFO:   gradient_accumulation_steps: 1
+2025-10-31 19:12:31,223:INFO:   init_model: keentomato/a3cg_greenwash_grace_fd
+2025-10-31 19:12:31,224:INFO:   learning_rate: 3e-06
+2025-10-31 19:12:31,224:INFO:   local_rank: -1
+2025-10-31 19:12:31,224:INFO:   loss_scale: 0
+2025-10-31 19:12:31,224:INFO:   max_seq_length: 128
+2025-10-31 19:12:31,224:INFO:   no_cuda: False
+2025-10-31 19:12:31,224:INFO:   num_decoder_layer: 2
+2025-10-31 19:12:31,224:INFO:   num_thread_reader: 0
+2025-10-31 19:12:31,224:INFO:   num_train_epochs: 20
+2025-10-31 19:12:31,224:INFO:   output_dir: results/full
+2025-10-31 19:12:31,224:INFO:   prediction_file_path: results/full/full_dataset_test_outputs.csv
+2025-10-31 19:12:31,224:INFO:   seed: 42
+2025-10-31 19:12:31,224:INFO:   server_ip: 
+2025-10-31 19:12:31,224:INFO:   server_port: 
+2025-10-31 19:12:31,224:INFO:   task_name: ate_asc
+2025-10-31 19:12:31,224:INFO:   test_file: None
+2025-10-31 19:12:31,224:INFO:   train_batch_size: 32
+2025-10-31 19:12:31,224:INFO:   train_file: None
+2025-10-31 19:12:31,224:INFO:   use_decoder: True
+2025-10-31 19:12:31,224:INFO:   use_ghl: True
+2025-10-31 19:12:31,224:INFO:   use_vat: False
+2025-10-31 19:12:31,224:INFO:   valid_file: None
+2025-10-31 19:12:31,224:INFO:   verbose_logging: False
+2025-10-31 19:12:31,224:INFO:   warmup_proportion: 0.1
+2025-10-31 19:12:31,272:INFO: device: cuda n_gpu: 1, distributed training: False, 16-bits training: False
+2025-10-31 19:12:32,056:INFO: loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at /root/.pytorch_pretrained_bert/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+2025-10-31 19:12:32,162:INFO: Loaded train file: processed_data/full/disclosures_train.txt
+2025-10-31 19:12:32,574:INFO: AT Labels are = [O, B-AP, I-AP]:
+2025-10-31 19:12:32,575:INFO: AS Labels are = [O, indeterminate, implemented, planning]:
+2025-10-31 19:12:32,920:INFO: loading archive file /root/.cache/huggingface/hub/models--keentomato--a3cg_greenwash_grace_fd/snapshots/36cf12a3af0c72b544a91a44986a02be9735b60c
+2025-10-31 19:12:33,451:INFO: loading archive file /home/esg_acaa/a3cg_greenwash/models/grace/decoder-bert-base
+2025-10-31 19:12:34,447:INFO: Loaded val file: processed_data/full/disclosures_test.txt
+2025-10-31 19:12:34,623:INFO: ***** Running test *****
+2025-10-31 19:12:34,624:INFO:   Num examples = 399
+2025-10-31 19:12:34,624:INFO:   Batch size = 32
+2025-10-31 19:12:35,278:INFO: AT p:0.7298	r:0.7810	f1:0.7545
+2025-10-31 19:12:35,280:INFO: AS p:0.6489	r:0.6944	f1:0.6709
