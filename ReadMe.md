@@ -72,12 +72,14 @@ The datasets used in this work are located in the `dataset` directory, which inc
 
 - Each script internally calls:
 
-```bash python ate_asc_run.py --config_path configs/aspect_action/<config_file>.json
+```bash 
+python ate_asc_run.py --config_path configs/aspect_action/<config_file>.json
 ```
 
 - Each run produces results under, including predictions, logs and metrics:
 
-```bash results/<fold>_<seen_or_unseen>/
+```bash 
+results/<fold>_<seen_or_unseen>/
 ```
 
 🚧 **Other models are coming soon!** We're currently cleaning up our code base and will release model checkpoints and evaluation outputs shortly.
