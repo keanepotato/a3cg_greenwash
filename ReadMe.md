@@ -41,9 +41,46 @@ The datasets used in this work are located in the `dataset` directory, which inc
 - We **evaluate** model performance on both `fold_<x>_seen_test.json` and `fold_<x>_unseen_test.json`.
 - The *seen* partitions include only aspect categories observed during training, while *unseen* test sets evaluate generalization to novel aspect categories.
 
-### 📊 Model Evaluation
+## 📊 Model Evaluation
 
-🚧 **Coming soon!** We're currently cleaning up our code base and will release model checkpoints and evaluation outputs shortly.
+- This repository supports multiple model families for Aspect–Action Analysis under the **A3CG** framework.  
+- Currently, the **GRACE** model is fully cleaned and ready for evaluation.  
+- Other model families (e.g., baseline transformer variants, multi-task, and instruction-tuned LLMs) are still being cleaned and will be released shortly.
+
+---
+
+### ⚙️ Evaluating the GRACE Model
+
+- Each evaluation corresponds to one of the three cross-category folds (**F1**, **F2**, **F3**) and to either the *seen* or *unseen* test split.  
+- The evaluation shell scripts are located in the root directory (or under `scripts/`, if organized as such).
+
+#### 🔹 Run Evaluation
+
+```bash
+# Fold 1
+./run_f1_seen_test.sh
+./run_f1_unseen_test.sh
+
+# Fold 2
+./run_f2_seen_test.sh
+./run_f2_unseen_test.sh
+
+# Fold 3
+./run_f3_seen_test.sh
+./run_f3_unseen_test.sh
+```
+
+- Each script internally calls:
+
+```bash python ate_asc_run.py --config_path configs/aspect_action/<config_file>.json
+```
+
+- Each run produces results under, including predictions, logs and metrics:
+
+```bash results/<fold>_<seen_or_unseen>/
+```
+
+🚧 **Other models are coming soon!** We're currently cleaning up our code base and will release model checkpoints and evaluation outputs shortly.
 
 ---
 
