@@ -86,8 +86,6 @@ python ate_asc_run.py --config_path configs/aspect_action/<config_file>.json
 results/<fold>_<seen_or_unseen>/
 ```
 
-🚧 **Other models are coming soon!** We're currently cleaning up our code base and will release model checkpoints and evaluation outputs shortly.
-
 ---
 
 ## 🔖 Citation
